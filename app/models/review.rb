@@ -1,5 +1,10 @@
 class Review < ApplicationRecord
 
+#add an association that has a 1:M relationship
+
+  has_many :comments 
+
+
   geocoded_by :address
   after_validation :geocode
 
