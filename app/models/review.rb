@@ -2,8 +2,12 @@ class Review < ApplicationRecord
 
 #add an association that has a 1:M relationship
 
-  has_many :comments 
 
+  has_many :comments
+  has_many :bookmarks
+  # add an associate to the user
+
+  belongs_to :user
 
   geocoded_by :address
   after_validation :geocode
