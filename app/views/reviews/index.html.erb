@@ -1,5 +1,6 @@
 <% content_for :page_title, "Homepage" %>
 
+
 <nav class="filters">
 
   <%= active_link_to "All Restaurants",root_path, active: {price:nil, cuisine: nil, location: nil} %>
@@ -30,21 +31,23 @@
 
 
 
-
-
-
-
-
-
-
 <% @reviews.each do |review| %>
 <div class="review">
-  <%= active_link_to review_path(review) do %>
+
+  <%= link_to review_path(review) do %>
+
+
+   <%= image_tag review.photo.thumb.url %>
+  
+
+
+
+
 <h2> <%= review.title %> </h2>
 
 <p>
   <%= review.cuisine %> -
-  <%= pluralize review.comments.count, "comment" %> 
+  <%= pluralize review.comments.count, "comment" %>
 
 </p>
 

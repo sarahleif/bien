@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bienwebsite",
+  "private_key_id": "9c2276df1641a85c971ff723f94c8e7266aa71a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtVZ5lS83dGxlI\nPonl17TeFuMw/fkw8Xsu7W1DtrnD2as9D68HWVwVwCXeRX3MKe61TbixIvIIM4ay\nNE1xR03UgOYLlVMkJVNHS4Lkn6IAeLJRgEQq8550L1isS/w2QypZrohOHh6YknwY\nlz0uNKIU/xM3PsdqtyVrjQoxQB8ZlsUAQUAJRKgECaY3uZAsbcimkTpuD5eyOMcv\n5Y+GqZA74NN+PZJOg9xnToblcKdEGmd/Aej6r2L8xObBBMIneCeLsFZ6CQHdme8k\nN3ut/kzoVGfWW0S/45MtDshsmvvH42aKD3GFwNEYifNxsZPas9/dv/NncauEVexU\n0bH6eavhAgMBAAECggEAAaBxQUqWPtbcJlpdE8UE1YdXG3Hk3M5f1zrJy0HVoxFg\n1r2hSx/kgoZV8sNejEe8OvSKmYwo/+2HKWIp7Jp4l5SNKrzHyoB2tFMs3Hs/SI/3\niaHr8swv7Tc3XGpcBuR1xYZmvkId3uv9QPvx6HUatBMJO5oWDX+D75DQ8Jzq2vqb\nxbJm5MYONv+Zjw34c48p188XrunvS4BeTNR1RJ6DN0107VkIyXWlvgRr7qSAA/Xq\n2T40UH6j/dEgp7P9Zg0U98xS1LYWwf36TyQrHOGhbAPHRNiszLeqIdcwOZo5Y26F\niRuMrR6adTBDf5Pkd/riTMNCxNW84K5o4WqYPLEO4QKBgQDVgSY63e8Kld7Ry/lc\n0PK64g3dkg4bozA/u3nmaeUO+QJ4lQcCvx6vMTHIQRSwDVeNSa1ApkJJd3HM9s8E\n4TdA9n875RuLWgs0Sy/2qsO99NhM0FOGVYoOK/mtMsSxuYEIveJFoYDc91TZPm6d\nN05VZCPxwGnX7ibnj96tQjN8iwKBgQDP1aflyB+ut756fWEEsQojvaj8JZEEqrFm\nvFTZoY9MHGTrRh6oYHNqXSs2BYaizHtEt+2rBpyXXyd4cLkyur36r0rX8o/D2SPC\nHmmw14jUF+gIjDkzdHCF8de5KI+C2rZiEKulP1Ws0oLFpq+Nm6KuqW/vZZhys8M6\ngnl6u9kqwwKBgFcTsmzl4T12/IaiY1SYn7baxX7tt7VL7DzCEKiJ3fMqWfimB1L2\nceRP8xbSfEaFWoT0XKX2aSiff5lxu+Mom6lyH1hlS8Oc+N7eH3TCFs1dk+5YNQif\n0IuRIeaiwxgdKWRQVX3CrdTxRvjHfsO+L8Oh8QsDR+faaKGeytntGySbAoGAC4cL\nN/iAoV05qGuZ3PvA1zimzc17nKmnC0642hVW8F7GzjHmc2peHHEse2OVEySKVcZp\n3UmRl+fENa7y5rhq3yOn4BBpHvDFRfgP3qolwbXNveOhLJRxxUwjrfZs91IQOaI5\nEwJPSzWl4TacmBsgy9VECyA0c3A7DNy9xivzIKcCgYAdYi1cGPSq5apb7a0hzjt2\ny6kQg9QSfFSEZ5x+EhseArwp80uAQlUKutTz+6bB4iEVKNE73/TmQXSpVsMucWln\nBmMHoBzK5p+2BqYvAXBx6cVmWL4n9c8+IkqT7cxP61mO3snw7E6RkTF2+m8oZSVv\nuRdn6MiOg0xEOCFVRqdF0w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bienimages@bienwebsite.iam.gserviceaccount.com",
+  "client_id": "115997408236800709557",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bienimages%40bienwebsite.iam.gserviceaccount.com"
+}

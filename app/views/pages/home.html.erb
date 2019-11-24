@@ -1,0 +1,19 @@
+<%= image_tag @content.image.url %>
+<h1> <%= @content.title %> </h1>
+
+<%= simple_format @content.body %>
+
+<h2> Highly Rated Reviews </h2>
+<% if @highly_rated_reviews.present? %>
+
+<%= render partial: "review", collection: @highly_rated_reviews %>
+
+<%end%>
+
+<h2> Bien Featured Reviews </h2>
+
+<% if @featured_reviews.present? %>
+
+<%= render partial: "review", collection: @featured_reviews %>
+
+<%end%>

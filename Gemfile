@@ -14,6 +14,22 @@ group:production do
 gem 'pg'
 end
 
+#uploading files
+gem 'carrierwave'
+gem 'mini_magick'
+
+gem "fog-aws"
+
+gem 'carrierwave-google-storage'
+
+#add admin panel
+gem 'activeadmin'
+gem 'devise'
+gem 'cancan'
+gem 'draper'
+gem 'pundit'
+
+
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
